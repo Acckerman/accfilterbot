@@ -19,15 +19,15 @@
     "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5395636564:AAFVCy_6u6dao2mUqm_ohFIf9olRM-f4RCk",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "18517936",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "552ce63ba82ea7a633b039ee0dc87790",
             "required": true
         },
         "CHANNELS": {
@@ -35,15 +35,15 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "1753576629",
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
+            "description": "https://graph.org/file/1f04a86d2526b25b34d55.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001752409691",
             "required": true
         },
         "AUTH_USERS": {
@@ -55,7 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com.",
+            "description": "mongodb+srv://Fileacc: acckermanzhz@cluster0.eseoqwa.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
